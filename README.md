@@ -3,4 +3,4 @@ This Specialization teaches the essential skills for working with large-scale da
 
 Instead, it’s increasingly stored in distributed clusters and cloud storage. These data stores are cost-efficient and infinitely scalable.  To query these huge datasets in clusters and cloud storage, you need a newer breed of SQL engine: distributed query engines, like Hive, Impala, Presto, and Drill. These are open source SQL engines capable of querying enormous datasets. This Specialization focuses on Hive and Impala, the most widely deployed of these query engines.  This Specialization is designed to provide excellent preparation for the Cloudera Certified Associate (CCA) Data Analyst certification exam. 
 
-Currently ursuing my certification credential by taking a hands-on practical exam using the same SQL engines that this Specialization teaches—Hive and Impala.
+Currently working towards my CCA my certification, credential by taking a hands-on practical exam using the same SQL engines that this Specialization teaches—Hive and Impala.
